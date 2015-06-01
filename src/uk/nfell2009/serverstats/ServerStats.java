@@ -9,6 +9,7 @@ public class ServerStats extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		plugin = this;
+		
 	}
 	
 	public void onDisable() {
